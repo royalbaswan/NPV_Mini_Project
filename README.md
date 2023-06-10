@@ -15,4 +15,5 @@ This dataset provides a nutrition analysis of every menu item on the Bangalore's
 * Calories: Amount of calories in that food item.
 
 **Total Rows:** 318
+
 **Total columns:** 6
