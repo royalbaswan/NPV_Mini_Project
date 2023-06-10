@@ -1,5 +1,5 @@
 # NPV_Mini_Project
-                            Nutrition Analysis of a Restaurant
+                                        Nutrition Analysis of a Restaurant
 
 **Dataset Content:**
 This dataset provides a nutrition analysis of every menu item on the Bangalore's famous restaurant's menu, including breakfast, beef burgers, chicken etc..
